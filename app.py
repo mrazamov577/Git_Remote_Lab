@@ -1,3 +1,3 @@
 print("Salom, Git!")
 def qoshish(a, b):
-    return a + b
+    return int(a) + int(b)
